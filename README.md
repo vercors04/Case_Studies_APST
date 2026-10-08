@@ -1,4 +1,4 @@
-# Etudes_de_cas_APST
+# Case_Studies_APST
 
 Three case studies on different datasets, using different methods, for the "Apprentissage statistique" (statistical learning) course.
 
